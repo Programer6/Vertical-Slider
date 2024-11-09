@@ -1,6 +1,7 @@
 
 # Vertical Slider Project
-![Uploading Screenshot 2024-11-09 at 6.40.07 PM.png…]()
+<img width="1492" alt="Screenshot 2024-11-09 at 6 40 34 PM" src="https://github.com/user-attachments/assets/4782a5c4-6179-41f7-a905-000449270392">
+
 
 ## Overview
 This project implements a dynamic vertical slider using HTML, CSS, and JavaScript. The slider displays paired content panels on the left and right sides, featuring text with background colors and images respectively. Users can navigate through the slides using up and down arrow buttons.
